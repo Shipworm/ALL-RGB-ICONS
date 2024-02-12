@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "context": "client",
+  "titansOnly": true,
+  "identifier": "",
+  "display_name": "Strategic Rainbow Icons - Nik's edit",
+  "description": "Make all your icons colorful.",
+  "author": "samzlx, dom314, NikolaMX, Turtle_Shipworm",
+  "version": "1.2",
+  "build": "116931",
+  "date": "2023/12/25",
+  "signature": "not yet implemented",
+  "category": [
+        "in-game",
+        "client-mod",
+        "Strategic-icons",
+        "titans"
+    ],
+  "forum": "https://forums.planetaryannihilation.com/threads/rel-rainbow-icons-for-fabs.73597/",
+  "icon": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNmZGYyZTkxY2E1YTA3MWY0MTFhMmFmMTdlMTFmZmQxZmRjOWJjOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/y0iwcFIGxoazSE78uo/giphy.gif",
+  "GitHub": "https://github.com/Shipworm/ALL-RGB-ICONS",
+  "priority": 100
+}
