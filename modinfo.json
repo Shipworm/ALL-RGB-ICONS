@@ -1,0 +1,19 @@
+{
+    "author": "samzlx, dom314, NikolaMX, Turtle_Shipworm, Dr.Wondertainment, BOTTTTT",
+    "build": "116982",
+    "category":
+    [
+	  "client-mod",
+        "titans"
+    ],
+    "context": "client",
+    "date": "2024-01-24",
+    "description": "Make all your icons colorful",
+    "display_name": "RGBICONS",
+    "forum": "",
+    "identifier": "com.pa.rgbicons",
+    "signature": " ",
+    "version": "1.1",
+    "icon": "https://i.ibb.co/YRH3q1b/giphy.gif",
+    "titansOnly": true
+}
