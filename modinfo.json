@@ -8,12 +8,12 @@
     ],
     "context": "client",
     "date": "2024-01-24",
-    "description": "打算整成自用mod,如果真有人在用这个mod就上github说一声我再改回来,If u don't want the turtle commander,tell me on github",
+    "description": "Make your icons colourful",
     "display_name": "RGBICONS",
     "forum": "https://github.com/Shipworm/ALL-RGB-ICONS/discussions/1",
     "identifier": "com.pa.TurtleShipworm.rgbicons",
     "signature": " ",
-    "version": "1.5",
-    "icon": "https://i.ibb.co/YRH3q1b/giphy.gif",
+    "version": "1.6",
+    "icon": " ",
     "titansOnly": true
 }
